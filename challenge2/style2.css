@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #203f4a;
+  color: white;
+  padding: 50px;
+}
+
+.container {
+  width: 80%;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+.intro-content {
+  width: 50%;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+section {
+  padding: 16px 0;
+}
+
+.section-text {
+  width: 90%;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 20px;
+}

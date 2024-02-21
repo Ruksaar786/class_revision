@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box1 {
+  background-color: #23424a;
+  border: 5px solid red;
+  color: white;
+  padding: 15px;
+}
+
+.child-box {
+  border: 5px solid green;
+  width: 60%;
+  margin-bottom: 10px;
+}
+
+h1 p {
+  border: 5px solid orange;
+}
